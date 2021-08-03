@@ -1,0 +1,9 @@
+results/
+tmp/
+*/**/__pycache__
+*/*.pyc
+*/**/*.pyc
+datasets/
+checkpoints/
+*.zip
+comp.py
